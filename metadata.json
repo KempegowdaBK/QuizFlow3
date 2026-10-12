@@ -1,0 +1,6 @@
+{
+  "name": "QuizForge AI - Smart Quiz Generator & Study Studio",
+  "description": "Generate customized quizzes from any topic, study notes, or text in seconds with AI. Interactive quiz modes, instant explanations, timer options, flashcard review, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
